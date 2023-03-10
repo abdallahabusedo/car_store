@@ -6,7 +6,7 @@ import React, { Suspense, useRef } from "react";
 import { useFrame } from "@react-three/fiber";
 import state from "@/components/state";
 import { useInView } from "react-intersection-observer";
-import Lights from "../components/lights";
+import Lights from "../components/Lights";
 import { Cars } from "../components/Cars";
 import Sidebar from "../components/Sidebar.jsx";
 const Model = ({ modelPath }) => {
