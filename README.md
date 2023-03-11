@@ -1,3 +1,6 @@
+![carstore](https://user-images.githubusercontent.com/42722816/224486476-53099f31-d443-4baa-a65f-9f2512d32ab3.gif)
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
